@@ -11,4 +11,4 @@ EDA → Missing values → Duplicates → Outliers → Class imbalance → Scali
 - Apply **feature scaling** and **categorical encoding**.
 - Explore **different data splits** (holdout, stratified, CV-ready).
 
-## 📁 Project Structure
+
